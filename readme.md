@@ -21,3 +21,8 @@ Assumptions:
 4. There are several methods of calculating the value in gain in information of giving someone a loan. We only have a look at 2 such possible methods. There are many others, and some may work better than others.
 
 I've coded this up in python 3, so you must have python installed on your system. I've gone out of my way to make sure I don't use any libaries, so no need to install any libraries on your system. This demo project is made to be played around with. Have a go at tinkering with the hyper parameters, and tuning any of the parameters within the code. I've tried to make the code as simple as possible, and the model used as simple as possible for this purpose. 
+
+To run the code, you just need to write: 
+python3 main.py
+
+(may just be python for you instead of python3, check your environment variables and configs on your local machine!)
